@@ -1,3 +1,5 @@
+//Time complexity: O(n) -> O(2n) = O(n)
+
 void foo(int[] array){
     int sum = 0;
     int product = 1;
