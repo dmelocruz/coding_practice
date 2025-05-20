@@ -1,3 +1,6 @@
+//Time complexity: O(a*b)
+// a is for arrayA and b is for arrayB
+
 public class big_o_ex4{
     public static void  printUnorderedPairs(int[] arrayA, int[] arrayB) {
         for (int i = 0; i < arrayA.length; i++) {
